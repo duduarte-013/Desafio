@@ -1,0 +1,17 @@
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Infra.Data\bin\Debug\net6.0\Example.Infra.Data.deps.json
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Infra.Data\bin\Debug\net6.0\Example.Infra.Data.runtimeconfig.json
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Infra.Data\bin\Debug\net6.0\Example.Infra.Data.dll
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Infra.Data\bin\Debug\net6.0\Example.Infra.Data.pdb
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Infra.Data\bin\Debug\net6.0\Example.Domain.dll
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Infra.Data\bin\Debug\net6.0\Example.Domain.pdb
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Infra.Data\obj\Debug\net6.0\Example.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Infra.Data\obj\Debug\net6.0\Example.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Infra.Data\obj\Debug\net6.0\Example.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Infra.Data\obj\Debug\net6.0\Example.Infra.Data.AssemblyInfo.cs
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Infra.Data\obj\Debug\net6.0\Example.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Infra.Data\obj\Debug\net6.0\Example.Infra.Data.csproj.CopyComplete
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Infra.Data\obj\Debug\net6.0\Example.Infra.Data.dll
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Infra.Data\obj\Debug\net6.0\refint\Example.Infra.Data.dll
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Infra.Data\obj\Debug\net6.0\Example.Infra.Data.pdb
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Infra.Data\obj\Debug\net6.0\Example.Infra.Data.genruntimeconfig.cache
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Infra.Data\obj\Debug\net6.0\ref\Example.Infra.Data.dll

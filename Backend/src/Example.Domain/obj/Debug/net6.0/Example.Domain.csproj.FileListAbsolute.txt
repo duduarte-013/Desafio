@@ -1,0 +1,14 @@
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Domain\bin\Debug\net6.0\Example.Domain.deps.json
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Domain\bin\Debug\net6.0\Example.Domain.dll
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Domain\bin\Debug\net6.0\Example.Domain.pdb
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Domain\obj\Debug\net6.0\Example.Domain.csproj.AssemblyReference.cache
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Domain\obj\Debug\net6.0\Example.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Domain\obj\Debug\net6.0\Example.Domain.AssemblyInfoInputs.cache
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Domain\obj\Debug\net6.0\Example.Domain.AssemblyInfo.cs
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Domain\obj\Debug\net6.0\Example.Domain.csproj.CoreCompileInputs.cache
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Domain\obj\Debug\net6.0\Example.Domain.dll
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Domain\obj\Debug\net6.0\refint\Example.Domain.dll
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Domain\obj\Debug\net6.0\Example.Domain.pdb
+C:\Users\danie\Source\Repos\desafio_backend_stefanini\src\Example.Domain\obj\Debug\net6.0\ref\Example.Domain.dll
+C:\Users\danie\source\repos\desafio_backend_stefanini\src\Example.Domain\bin\Debug\net6.0\Example.Domain.runtimeconfig.json
+C:\Users\danie\source\repos\desafio_backend_stefanini\src\Example.Domain\obj\Debug\net6.0\Example.Domain.genruntimeconfig.cache

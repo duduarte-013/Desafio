@@ -1,0 +1,6 @@
+{
+    "/persons": {
+      "target": "http://localhost:42773",
+      "secure": false
+    }
+  }

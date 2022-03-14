@@ -1,0 +1,81 @@
+.form-row {
+    display: flex;
+  }
+  
+  
+  
+  input.ng-invalid.ng-touched {
+    border: 1px solid red;
+  }
+  
+  input, select{
+    border-radius: 0px !important;
+    width: 300px;
+    height: 50px;
+    border: 1px solid rgba(170, 170, 170, 1);
+    margin-left: 20px;
+  }
+
+  button { 
+    width: 15opx;
+    height: 50px;
+    border: 1px solid rgba(170, 170, 170, 1);
+    margin-left: 20px;
+  }
+
+  .form-row {
+    margin-top: 40px;
+  }
+
+  .form-row {
+    display: flex;
+  }
+
+  .btn { 
+      border-radius: 5px;
+  }
+
+  mat-icon {
+      color: #e35e6b;
+  }
+  .top {
+    margin-top: 20px;
+    margin-left: 50px;
+  }
+
+  .form-row {
+    margin-top: 40px;
+  }
+
+  .space {
+    margin-left: 40px;
+  }
+
+  .input-control::placeholder {
+    font-size: 10px !important;
+    position: absolute;
+    top: 4px;
+  }
+
+  table {
+      margin:auto;
+      margin-top: 150px;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    border: solid #ccc 1px;
+    box-shadow: 5px;
+
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  
+  

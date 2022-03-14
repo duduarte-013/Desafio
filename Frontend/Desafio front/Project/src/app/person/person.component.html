@@ -1,0 +1,69 @@
+<link href = "https://fonts.googleapis.com/icon?family=Material+Icons" rel = "stylesheet">
+<div class="container">
+
+<form [formGroup]="formPerson" novalidate (ngSubmit)="add()">
+  <div class="form-row">
+    <div class="form-group">
+      <input class="form-control input-control"
+             placeholder="Nome *"
+             formControlName="name">
+      
+    </div>
+    <div class="form-group">
+      <input class="form-control input-control"
+             placeholder="Cpf *"
+             formControlName="cpf">
+     
+    </div>
+    <div class="form-group">
+      <input class="form-control input-control"
+             placeholder="Idade *"
+             formControlName="age">
+             </div>
+    <div class="form-group">
+      <select class="form-control"
+      formControlName="cityId"
+      placeholder="Cidade *">
+        <option *ngFor="let city of this.cityList" value= {{city.id}}>
+          {{city.name}}
+        </option>
+
+      </select>
+    </div>
+    <button  type="submit" class="bt2" [disabled]="formPerson.invalid"><b>Salvar</b></button>
+  </div>
+ 
+</form>
+</div>
+
+<table>
+  <tr>
+    <th>Nome</th>
+    <th>Cpf</th>
+    <th>City</th>
+    <th>Age</th>
+    <th>Excluir</th>
+  </tr>
+  <tbody>
+  <tr *ngFor="let person of personList">
+    <td>{{person.name}}</td>
+    <td>{{person.cpf}}</td>
+    <td>{{person.cityName}}</td>
+    <td>{{person.age}}</td>
+    <td><button class="btn" (click)="delete(person.id)"><mat-icon>delete</mat-icon></button></td>
+</tr>
+</tbody>
+  
+  
+</table>
+
+     
+
+
+
+
+          
+
+
+
+
